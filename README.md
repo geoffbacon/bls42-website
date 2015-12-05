@@ -7,3 +7,5 @@ https://linguistics.berkeley.edu/bls
 The template for this website comes from the wonderful HTML5UP crew, who distribute beautiful, responsive websites for free under the Creative Commons License (see README-HTML5UP.txt for more info). I simple added BLS specific content and modified a few things. They make incredible website templates that I could never dream of creating myself. 
 
 **If you like their work, please check them out at html5up.net**. 
+
+The images directory is not included in this repo as it contains trademarked images.
